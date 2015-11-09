@@ -1,0 +1,1 @@
+var photosGallery = angular.module('photosGallery',['ui.router']);
